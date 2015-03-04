@@ -44,12 +44,7 @@ for url in img_urls:
     img = Image.open(f)
 
     # resize img
-    w = img.size[0]
-    h = img.size[1]
-    r =  float(w) / h  
-    h_small = size
-    w_small = int(r*h_small)
-    img_small = img.resize( (w_small,h_small ) )
+    img_small = resize_img(img, size)
 
     # convert img to texture
     img_whools = img_to_textures_list(img_small, whools)
