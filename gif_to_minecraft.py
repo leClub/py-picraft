@@ -12,7 +12,7 @@ size = 20
 # minecraft
 mc = minecraft.Minecraft.create()
 mc_x, mc_y, mc_z = mc.player.getPos()
-mc_x = mc_x-20
+mc_x = mc_x+20
 mc_y = mc_y-size/2
 
 # textures
@@ -30,6 +30,7 @@ medias = json.load(f)
 
 for g, gif in enumerate(medias["data"]) :
     url = gif["images"]["fixed_height"]["url"] 
+    print url
     mc.postToChat( "Sending GIF image %s tagged %s"%(url, query) )
 
     if g == 1 : break
