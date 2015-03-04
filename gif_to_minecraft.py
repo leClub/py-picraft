@@ -1,5 +1,5 @@
 import os
-from img2minecraft import gif_iter_frames, get_whool_colors, img_to_textures_list
+from lib.img2minecraft import gif_iter_frames, get_whool_colors, img_to_textures_list
 
 from mcpi import minecraft
 import urllib2, StringIO

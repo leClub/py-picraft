@@ -2,7 +2,7 @@ from instagram.client import InstagramAPI
 import urllib2, StringIO
 from PIL import Image
 import json
-from img2minecraft import *
+from lib.img2minecraft import *
 
 CLIENT_ID = ""
 CLIENT_SECRET = ""
