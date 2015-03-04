@@ -2,7 +2,6 @@ from instagram.client import InstagramAPI
 import urllib2, StringIO
 from PIL import Image
 import json
-
 from img2minecraft import *
 
 CLIENT_ID = ""
@@ -17,6 +16,9 @@ mc = minecraft.Minecraft.create()
 mc_x, mc_y, mc_z = mc.player.getPos()
 mc_x = mc_x-20
 mc_y = mc_y-size/2
+
+# textures
+whools = get_whool_colors(os.path.join(os.getcwd(), "textures/whools"))
 
 # get data from Instagram
 api = InstagramAPI(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
@@ -48,9 +50,6 @@ for url in img_urls:
     h_small = size
     w_small = int(r*h_small)
     img_small = img.resize( (w_small,h_small ) )
-
-    # textures
-    whools = get_whool_colors(os.path.join(os.getcwd(), "whools"))
 
     # convert img to texture
     img_whools = img_to_textures_list(img_small, whools)

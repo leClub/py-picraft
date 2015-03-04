@@ -16,7 +16,7 @@ mc_x = mc_x+20
 mc_y = mc_y-size/2
 
 # textures
-whools = get_whool_colors(os.path.join(os.getcwd(), "whools"))
+whools = get_whool_colors(os.path.join(os.getcwd(), "textures/whools"))
 
 # Gif from Giphy API : https://github.com/Giphy/GiphyAPI
 API_KEY="dc6zaTOxFJmzC"
