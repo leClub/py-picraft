@@ -1,4 +1,4 @@
-from image_to_minecraft import gif_iter_frames
+from img2minecraft import gif_iter_frames
 
 import urllib2, StringIO
 from PIL import Image
