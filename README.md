@@ -6,3 +6,5 @@ Python scripts for Minecraft Pi edition
 
 
 [ref for Minecraft API](http://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+
+[taking screenshots in Minecraft](http://www.raspberrypi-spy.co.uk/2014/05/how-to-capture-minecraft-screenshots-on-the-raspberry-pi/)
