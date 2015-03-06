@@ -13,13 +13,12 @@ def color_distance(rgb1,rgb2):
 
 class MinecraftImager():
 
-    def __init__(self, size):
+    def __init__(self):
         self.mc = minecraft.Minecraft.create()
         x, y, z = self.mc.player.getPos()
         self.x = x+20
         self.y = y-size/2
         self.z = z
-        self.size = size
         self.textures_dir = "textures"
         self.textures = []
 
@@ -42,13 +41,13 @@ class MinecraftImager():
     def say(self, sentence):
         self.mc.postToChat( sentence )
 
-    def process_img(self, img):
+    def process_img(self, img, size):
 
         w = img.size[0]
         h = img.size[1]
         r =  h / float(w) 
 
-        w_small = self.size
+        w_small = size
         h_small = int(r*w_small)
         img_small = img.resize( (w_small,h_small ) )
 
@@ -68,9 +67,9 @@ class MinecraftImager():
         return pixels
 
 
-    def draw(self,img):
+    def draw(self, img, size=40):
 
-        img_textures_array = self.process_img(img)
+        img_textures_array = self.process_img(img, size)
         print img_textures_array
 
         for i, row in enumerate(img_textures_array) : 

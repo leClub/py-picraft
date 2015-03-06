@@ -1,0 +1,2152 @@
+[
+    {
+        "pop1960": 179323175,
+        "name": "US United States",
+        "pop1980": 226545805,
+        "pop1990": 248709873,
+        "pop1930": 123202624,
+        "pop1900": 76212168,
+        "pop1910": 92228496,
+        "pop1940": 132164569,
+        "fips": "00000",
+        "pop1950": 151325798,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4999989109997,
+                    39.759997789000465
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "United States",
+                "lat": 39.759997789000465,
+                "lng": -98.4999989109997,
+                "quality": "POI",
+                "location": "United States, USA"
+            },
+            "bbox": [
+                -120.486,
+                17.773998,
+                -76.514,
+                61.745998
+            ]
+        },
+        "pop1920": 106021537,
+        "pop1970": 203211926
+    },
+    {
+        "pop1960": 3266740,
+        "name": "AL Alabama",
+        "pop1980": 3893888,
+        "pop1990": 4040587,
+        "pop1930": 2646248,
+        "pop1900": 1828697,
+        "pop1910": 2138093,
+        "pop1940": 2832961,
+        "fips": "01000",
+        "pop1950": 3061743,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.75025929299966,
+                    32.75040744500046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Alabama, United States",
+                "lat": 32.75040744500046,
+                "lng": -86.75025929299966,
+                "quality": "POI",
+                "location": "Alabama, USA"
+            },
+            "bbox": [
+                -88.84426,
+                30.656407,
+                -84.65626,
+                34.844407
+            ]
+        },
+        "pop1920": 2348174,
+        "pop1970": 3444165
+    },
+    {
+        "pop1960": 1302161,
+        "name": "AZ Arizona",
+        "pop1980": 2718215,
+        "pop1990": 3665228,
+        "pop1930": 435573,
+        "pop1900": 122931,
+        "pop1910": 204354,
+        "pop1940": 499261,
+        "fips": "04000",
+        "pop1950": 749587,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.5009784719997,
+                    34.50029762900044
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Arizona, United States",
+                "lat": 34.50029762900044,
+                "lng": -111.5009784719997,
+                "quality": "POI",
+                "location": "Arizona, USA"
+            },
+            "bbox": [
+                -114.360979,
+                31.640298,
+                -108.640979,
+                37.360298
+            ]
+        },
+        "pop1920": 334162,
+        "pop1970": 1770900
+    },
+    {
+        "pop1960": 1786272,
+        "name": "AR Arkansas",
+        "pop1980": 2286435,
+        "pop1990": 2350725,
+        "pop1930": 1854482,
+        "pop1900": 1311564,
+        "pop1910": 1574449,
+        "pop1940": 1949387,
+        "fips": "05000",
+        "pop1950": 1909511,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.50043841899969,
+                    34.75036743300046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Arkansas, United States",
+                "lat": 34.75036743300046,
+                "lng": -92.50043841899969,
+                "quality": "POI",
+                "location": "Arkansas, USA"
+            },
+            "bbox": [
+                -94.617439,
+                32.633367,
+                -90.383439,
+                36.867367
+            ]
+        },
+        "pop1920": 1752204,
+        "pop1970": 1923295
+    },
+    {
+        "pop1960": 15717204,
+        "name": "CA California",
+        "pop1980": 23667902,
+        "pop1990": 29760021,
+        "pop1930": 5677251,
+        "pop1900": 1485053,
+        "pop1910": 2377549,
+        "pop1940": 6907387,
+        "fips": "06000",
+        "pop1950": 10586223,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.75125719399972,
+                    37.25021955100044
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "California, United States",
+                "lat": 37.25021955100044,
+                "lng": -119.75125719399972,
+                "quality": "POI",
+                "location": "California, USA"
+            },
+            "bbox": [
+                -124.690258,
+                32.31122,
+                -114.812258,
+                42.18922
+            ]
+        },
+        "pop1920": 3426861,
+        "pop1970": 19953134
+    },
+    {
+        "pop1960": 1753947,
+        "name": "CO Colorado",
+        "pop1980": 2889964,
+        "pop1990": 3294394,
+        "pop1930": 1035791,
+        "pop1900": 539700,
+        "pop1910": 799024,
+        "pop1940": 1123296,
+        "fips": "08000",
+        "pop1950": 1325089,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.50082853199967,
+                    39.000267221000456
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Colorado, United States",
+                "lat": 39.000267221000456,
+                "lng": -105.50082853199967,
+                "quality": "POI",
+                "location": "Colorado, USA"
+            },
+            "bbox": [
+                -108.25783,
+                36.243267,
+                -102.74383,
+                41.757267
+            ]
+        },
+        "pop1920": 939629,
+        "pop1970": 2207259
+    },
+    {
+        "pop1960": 2535234,
+        "name": "CT Connecticut",
+        "pop1980": 3107576,
+        "pop1990": 3287116,
+        "pop1930": 1606903,
+        "pop1900": 908420,
+        "pop1910": 1114756,
+        "pop1940": 1709242,
+        "fips": "09000",
+        "pop1950": 2007280,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.66647783899964,
+                    41.66703652400048
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Connecticut, United States",
+                "lat": 41.66703652400048,
+                "lng": -72.66647783899964,
+                "quality": "POI",
+                "location": "Connecticut, USA"
+            },
+            "bbox": [
+                -73.419479,
+                40.914037,
+                -71.913479,
+                42.420037
+            ]
+        },
+        "pop1920": 1380631,
+        "pop1970": 3031709
+    },
+    {
+        "pop1960": 446292,
+        "name": "DE Delaware",
+        "pop1980": 594338,
+        "pop1990": 666168,
+        "pop1930": 238380,
+        "pop1900": 184735,
+        "pop1910": 202322,
+        "pop1940": 266505,
+        "fips": "10000",
+        "pop1950": 318085,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49991684899965,
+                    39.00038871000049
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Delaware, United States",
+                "lat": 39.00038871000049,
+                "lng": -75.49991684899965,
+                "quality": "POI",
+                "location": "Delaware, USA"
+            },
+            "bbox": [
+                -76.031918,
+                38.468389,
+                -74.967918,
+                39.532389
+            ]
+        },
+        "pop1920": 223003,
+        "pop1970": 548104
+    },
+    {
+        "pop1960": 763956,
+        "name": "DC District of Columbia",
+        "pop1980": 638333,
+        "pop1990": 606900,
+        "pop1930": 486869,
+        "pop1900": 278718,
+        "pop1910": 331069,
+        "pop1940": 663091,
+        "fips": "11000",
+        "pop1950": 802178,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00024568299966,
+                    38.91705610700046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "District of Columbia, United States",
+                "lat": 38.91705610700046,
+                "lng": -77.00024568299966,
+                "quality": "POI",
+                "location": "District of Columbia, USA"
+            },
+            "bbox": [
+                -77.101247,
+                38.816056,
+                -76.899247,
+                39.018056
+            ]
+        },
+        "pop1920": 437571,
+        "pop1970": 756510
+    },
+    {
+        "pop1960": 4951560,
+        "name": "FL Florida",
+        "pop1980": 9746324,
+        "pop1990": 1293792,
+        "pop1930": 1468211,
+        "pop1900": 528542,
+        "pop1910": 752619,
+        "pop1940": 1897414,
+        "fips": "12000",
+        "pop1950": 2771305,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.50009852799968,
+                    28.750536965000435
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Florida, United States",
+                "lat": 28.750536965000435,
+                "lng": -82.50009852799968,
+                "quality": "POI",
+                "location": "Florida, USA"
+            },
+            "bbox": [
+                -86.0981,
+                25.152537,
+                -78.9021,
+                32.348537
+            ]
+        },
+        "pop1920": 968470,
+        "pop1970": 6789443
+    },
+    {
+        "pop1960": 3943116,
+        "name": "GA Georgia",
+        "pop1980": 5463105,
+        "pop1990": 6478216,
+        "pop1930": 2908506,
+        "pop1900": 2216331,
+        "pop1910": 2609121,
+        "pop1940": 3123723,
+        "fips": "13000",
+        "pop1950": 3444578,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.50017976299966,
+                    32.75041644400045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Georgia, United States",
+                "lat": 32.75041644400045,
+                "lng": -83.50017976299966,
+                "quality": "POI",
+                "location": "Georgia, USA"
+            },
+            "bbox": [
+                -85.852181,
+                30.398416,
+                -81.148181,
+                35.102416
+            ]
+        },
+        "pop1920": 2895832,
+        "pop1970": 4589575
+    },
+    {
+        "pop1960": 667191,
+        "name": "ID Idaho",
+        "pop1980": 943935,
+        "pop1990": 100674,
+        "pop1930": 445032,
+        "pop1900": 161772,
+        "pop1910": 325594,
+        "pop1940": 524873,
+        "fips": "16000",
+        "pop1950": 588637,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.2511793699997,
+                    44.50019655900047
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Idaho, United States",
+                "lat": 44.50019655900047,
+                "lng": -114.2511793699997,
+                "quality": "POI",
+                "location": "Idaho, USA"
+            },
+            "bbox": [
+                -117.55418,
+                41.197197,
+                -110.94818,
+                47.803197
+            ]
+        },
+        "pop1920": 431866,
+        "pop1970": 712567
+    },
+    {
+        "pop1960": 10081158,
+        "name": "IL Illinois",
+        "pop1980": 11426518,
+        "pop1990": 11430602,
+        "pop1930": 7630654,
+        "pop1900": 4821550,
+        "pop1910": 5638591,
+        "pop1940": 7897241,
+        "fips": "17000",
+        "pop1950": 8712176,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.25036788799969,
+                    40.000316959000486
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Illinois, United States",
+                "lat": 40.000316959000486,
+                "lng": -89.25036788799969,
+                "quality": "POI",
+                "location": "Illinois, USA"
+            },
+            "bbox": [
+                -91.758369,
+                37.492317,
+                -86.742369,
+                42.508317
+            ]
+        },
+        "pop1920": 6485280,
+        "pop1970": 11113976
+    },
+    {
+        "pop1960": 4662498,
+        "name": "IN Indiana",
+        "pop1980": 5490224,
+        "pop1990": 5544159,
+        "pop1930": 3238503,
+        "pop1900": 2516462,
+        "pop1910": 2700876,
+        "pop1940": 3427796,
+        "fips": "18000",
+        "pop1950": 3934224,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.25026817099968,
+                    40.000316959000486
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Indiana, United States",
+                "lat": 40.000316959000486,
+                "lng": -86.25026817099968,
+                "quality": "POI",
+                "location": "Indiana, USA"
+            },
+            "bbox": [
+                -88.076269,
+                38.174317,
+                -84.424269,
+                41.826317
+            ]
+        },
+        "pop1920": 2930390,
+        "pop1970": 5193669
+    },
+    {
+        "pop1960": 2757537,
+        "name": "IA Iowa",
+        "pop1980": 2913808,
+        "pop1990": 2776755,
+        "pop1930": 2470939,
+        "pop1900": 2231853,
+        "pop1910": 2224771,
+        "pop1940": 2538268,
+        "fips": "19000",
+        "pop1950": 2621073,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.50048815699967,
+                    42.00026794700045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Iowa, United States",
+                "lat": 42.00026794700045,
+                "lng": -93.50048815699967,
+                "quality": "POI",
+                "location": "Iowa, USA"
+            },
+            "bbox": [
+                -95.906489,
+                39.594268,
+                -91.094489,
+                44.406268
+            ]
+        },
+        "pop1920": 2404021,
+        "pop1970": 2824376
+    },
+    {
+        "pop1960": 2178611,
+        "name": "KS Kansas",
+        "pop1980": 2363679,
+        "pop1990": 2477574,
+        "pop1930": 1880999,
+        "pop1900": 1470495,
+        "pop1910": 1690949,
+        "pop1940": 1801028,
+        "fips": "20000",
+        "pop1950": 1905299,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.50062885499966,
+                    38.50028959800045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Kansas, United States",
+                "lat": 38.50028959800045,
+                "lng": -98.50062885499966,
+                "quality": "POI",
+                "location": "Kansas, USA"
+            },
+            "bbox": [
+                -101.11863,
+                35.88229,
+                -95.88263,
+                41.11829
+            ]
+        },
+        "pop1920": 1769257,
+        "pop1970": 2246578
+    },
+    {
+        "pop1960": 3038156,
+        "name": "KY Kentucky",
+        "pop1980": 3660777,
+        "pop1990": 3685296,
+        "pop1930": 2614589,
+        "pop1900": 2147174,
+        "pop1910": 2289905,
+        "pop1940": 2845627,
+        "fips": "21000",
+        "pop1950": 2944806,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.87761550499965,
+                    38.20041821400048
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Kentucky, United States",
+                "lat": 38.20041821400048,
+                "lng": -84.87761550499965,
+                "quality": "POI",
+                "location": "Kentucky, USA"
+            },
+            "bbox": [
+                -87.441617,
+                35.636418,
+                -82.313617,
+                40.764418
+            ]
+        },
+        "pop1920": 2416630,
+        "pop1970": 3218706
+    },
+    {
+        "pop1960": 3257022,
+        "name": "LA Louisiana",
+        "pop1980": 4205900,
+        "pop1990": 4219973,
+        "pop1930": 2101593,
+        "pop1900": 1381625,
+        "pop1910": 1656388,
+        "pop1940": 2363880,
+        "fips": "22000",
+        "pop1950": 2683516,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.00039780199967,
+                    31.00046776600044
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Louisiana, United States",
+                "lat": 31.00046776600044,
+                "lng": -92.00039780199967,
+                "quality": "POI",
+                "location": "Louisiana, USA"
+            },
+            "bbox": [
+                -94.329399,
+                28.671468,
+                -89.671399,
+                33.329468
+            ]
+        },
+        "pop1920": 1798509,
+        "pop1970": 3641306
+    },
+    {
+        "pop1960": 969265,
+        "name": "ME Maine",
+        "pop1980": 1124660,
+        "pop1990": 122792,
+        "pop1930": 797423,
+        "pop1900": 694466,
+        "pop1910": 742371,
+        "pop1940": 847226,
+        "fips": "23000",
+        "pop1950": 913774,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.24976909899965,
+                    45.50031829000045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Maine, United States",
+                "lat": 45.50031829000045,
+                "lng": -69.24976909899965,
+                "quality": "POI",
+                "location": "Maine, USA"
+            },
+            "bbox": [
+                -71.40377,
+                43.346318,
+                -67.09577,
+                47.654318
+            ]
+        },
+        "pop1920": 768014,
+        "pop1970": 992048
+    },
+    {
+        "pop1960": 3100689,
+        "name": "MD Maryland",
+        "pop1980": 4216975,
+        "pop1990": 4781468,
+        "pop1930": 1631526,
+        "pop1900": 1188044,
+        "pop1910": 1295346,
+        "pop1940": 1821244,
+        "fips": "24000",
+        "pop1950": 2343001,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.74996889699963,
+                    39.00038871000049
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Maryland, United States",
+                "lat": 39.00038871000049,
+                "lng": -76.74996889699963,
+                "quality": "POI",
+                "location": "Maryland, USA"
+            },
+            "bbox": [
+                -78.31197,
+                37.438389,
+                -75.18797,
+                40.562389
+            ]
+        },
+        "pop1920": 1449661,
+        "pop1970": 3922399
+    },
+    {
+        "pop1960": 5148578,
+        "name": "MA Massachusetts",
+        "pop1980": 5737037,
+        "pop1990": 6016425,
+        "pop1930": 4249614,
+        "pop1900": 2805346,
+        "pop1910": 3366416,
+        "pop1940": 4316721,
+        "fips": "25000",
+        "pop1950": 4690514,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10831563899967,
+                    42.365649017000464
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Massachusetts, United States",
+                "lat": 42.365649017000464,
+                "lng": -71.10831563899967,
+                "quality": "POI",
+                "location": "Massachusetts, USA"
+            },
+            "bbox": [
+                -72.415317,
+                41.058649,
+                -69.801317,
+                43.672649
+            ]
+        },
+        "pop1920": 3852356,
+        "pop1970": 5689170
+    },
+    {
+        "pop1960": 7823194,
+        "name": "MI Michigan",
+        "pop1980": 9262078,
+        "pop1990": 9295297,
+        "pop1930": 4842325,
+        "pop1900": 2420982,
+        "pop1910": 2810173,
+        "pop1940": 5256106,
+        "fips": "26000",
+        "pop1950": 6371766,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.50032873399965,
+                    44.250288740000485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Michigan, United States",
+                "lat": 44.250288740000485,
+                "lng": -85.50032873399965,
+                "quality": "POI",
+                "location": "Michigan, USA"
+            },
+            "bbox": [
+                -89.22633,
+                40.524289,
+                -81.77433,
+                47.976289
+            ]
+        },
+        "pop1920": 3668412,
+        "pop1970": 8875083
+    },
+    {
+        "pop1960": 3413864,
+        "name": "MN Minnesota",
+        "pop1980": 4075970,
+        "pop1990": 4375099,
+        "pop1930": 2563953,
+        "pop1900": 1751394,
+        "pop1910": 2075708,
+        "pop1940": 2792300,
+        "fips": "27000",
+        "pop1950": 2982483,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.25054908299967,
+                    46.2502397290005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Minnesota, United States",
+                "lat": 46.2502397290005,
+                "lng": -94.25054908299967,
+                "quality": "POI",
+                "location": "Minnesota, USA"
+            },
+            "bbox": [
+                -97.66055,
+                42.84024,
+                -90.84055,
+                49.66024
+            ]
+        },
+        "pop1920": 2387125,
+        "pop1970": 3804971
+    },
+    {
+        "pop1960": 2178141,
+        "name": "MS Mississippi",
+        "pop1980": 2520638,
+        "pop1990": 2573216,
+        "pop1930": 2009821,
+        "pop1900": 1551270,
+        "pop1910": 1797114,
+        "pop1940": 2183796,
+        "fips": "28000",
+        "pop1950": 2178914,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.75035900999967,
+                    32.75040744500046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Mississippi, United States",
+                "lat": 32.75040744500046,
+                "lng": -89.75035900999967,
+                "quality": "POI",
+                "location": "Mississippi, USA"
+            },
+            "bbox": [
+                -91.84536,
+                30.655407,
+                -87.65536,
+                34.845407
+            ]
+        },
+        "pop1920": 1790618,
+        "pop1970": 2216912
+    },
+    {
+        "pop1960": 4319813,
+        "name": "MO Missouri",
+        "pop1980": 4916686,
+        "pop1990": 5117073,
+        "pop1930": 3629367,
+        "pop1900": 3106665,
+        "pop1910": 3293335,
+        "pop1940": 3784664,
+        "fips": "29000",
+        "pop1950": 3954653,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.50045641799966,
+                    38.25030978600046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Missouri, United States",
+                "lat": 38.25030978600046,
+                "lng": -92.50045641799966,
+                "quality": "POI",
+                "location": "Missouri, USA"
+            },
+            "bbox": [
+                -95.323457,
+                35.42731,
+                -89.677457,
+                41.07331
+            ]
+        },
+        "pop1920": 3404055,
+        "pop1970": 4676501
+    },
+    {
+        "pop1960": 674767,
+        "name": "MT Montana",
+        "pop1980": 786690,
+        "pop1990": 799065,
+        "pop1930": 537606,
+        "pop1900": 243329,
+        "pop1910": 376053,
+        "pop1940": 559456,
+        "fips": "30000",
+        "pop1950": 591024,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.75101629399967,
+                    47.00024666000047
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Montana, United States",
+                "lat": 47.00024666000047,
+                "lng": -109.75101629399967,
+                "quality": "POI",
+                "location": "Montana, USA"
+            },
+            "bbox": [
+                -113.914017,
+                42.837247,
+                -105.588017,
+                51.163247
+            ]
+        },
+        "pop1920": 548889,
+        "pop1970": 694409
+    },
+    {
+        "pop1960": 1411330,
+        "name": "NE Nebraska",
+        "pop1980": 1569825,
+        "pop1990": 1578385,
+        "pop1930": 1377963,
+        "pop1900": 1066300,
+        "pop1910": 1192214,
+        "pop1940": 1315834,
+        "fips": "31000",
+        "pop1950": 1325510,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.75066740399967,
+                    41.50027682500047
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Nebraska, United States",
+                "lat": 41.50027682500047,
+                "lng": -99.75066740399967,
+                "quality": "POI",
+                "location": "Nebraska, USA"
+            },
+            "bbox": [
+                -102.687668,
+                38.563277,
+                -96.813668,
+                44.437277
+            ]
+        },
+        "pop1920": 1296372,
+        "pop1970": 1483493
+    },
+    {
+        "pop1960": 285278,
+        "name": "NV Nevada",
+        "pop1980": 800493,
+        "pop1990": 120183,
+        "pop1930": 91058,
+        "pop1900": 42335,
+        "pop1910": 81875,
+        "pop1940": 110247,
+        "fips": "32000",
+        "pop1950": 160083,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.75118897399972,
+                    39.25020653700045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Nevada, United States",
+                "lat": 39.25020653700045,
+                "lng": -116.75118897399972,
+                "quality": "POI",
+                "location": "Nevada, USA"
+            },
+            "bbox": [
+                -119.99319,
+                36.008207,
+                -113.50919,
+                42.492207
+            ]
+        },
+        "pop1920": 77407,
+        "pop1970": 488738
+    },
+    {
+        "pop1960": 606921,
+        "name": "NH New Hampshire",
+        "pop1980": 920610,
+        "pop1990": 110925,
+        "pop1930": 465293,
+        "pop1900": 411588,
+        "pop1910": 430572,
+        "pop1940": 491524,
+        "fips": "33000",
+        "pop1950": 533242,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.49979889099967,
+                    43.6670190100005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "New Hampshire, United States",
+                "lat": 43.6670190100005,
+                "lng": -71.49979889099967,
+                "quality": "POI",
+                "location": "New Hampshire, USA"
+            },
+            "bbox": [
+                -72.6388,
+                42.528019,
+                -70.3608,
+                44.806019
+            ]
+        },
+        "pop1920": 443083,
+        "pop1970": 737681
+    },
+    {
+        "pop1960": 6066782,
+        "name": "NJ New Jersey",
+        "pop1980": 7364823,
+        "pop1990": 7730188,
+        "pop1930": 4041334,
+        "pop1900": 1883669,
+        "pop1910": 2537167,
+        "pop1940": 4160165,
+        "fips": "34000",
+        "pop1950": 4835329,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.49986711199966,
+                    40.167058659000475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "New Jersey, United States",
+                "lat": 40.167058659000475,
+                "lng": -74.49986711199966,
+                "quality": "POI",
+                "location": "New Jersey, USA"
+            },
+            "bbox": [
+                -75.519868,
+                39.147059,
+                -73.479868,
+                41.187059
+            ]
+        },
+        "pop1920": 3155900,
+        "pop1970": 7168164
+    },
+    {
+        "pop1960": 951023,
+        "name": "NM New Mexico",
+        "pop1980": 1302894,
+        "pop1990": 1515069,
+        "pop1930": 423317,
+        "pop1900": 195310,
+        "pop1910": 327301,
+        "pop1940": 531818,
+        "fips": "35000",
+        "pop1950": 681187,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.00084665199967,
+                    34.50033812500044
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "New Mexico, United States",
+                "lat": 34.50033812500044,
+                "lng": -106.00084665199967,
+                "quality": "POI",
+                "location": "New Mexico, USA"
+            },
+            "bbox": [
+                -108.929848,
+                31.571338,
+                -103.071848,
+                37.429338
+            ]
+        },
+        "pop1920": 360350,
+        "pop1970": 1016000
+    },
+    {
+        "pop1960": 16782304,
+        "name": "NY New York",
+        "pop1980": 17558072,
+        "pop1990": 17990455,
+        "pop1930": 12588066,
+        "pop1900": 7268894,
+        "pop1910": 9113614,
+        "pop1940": 13479142,
+        "fips": "36000",
+        "pop1950": 14830192,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00596844899962,
+                    40.71426859000047
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "New York City, New York, United States",
+                "lat": 40.71426859000047,
+                "lng": -74.00596844899962,
+                "quality": "POI",
+                "location": "New York, USA"
+            },
+            "bbox": [
+                -74.165969,
+                40.554269,
+                -73.845969,
+                40.874269
+            ]
+        },
+        "pop1920": 10385227,
+        "pop1970": 18236967
+    },
+    {
+        "pop1960": 4556155,
+        "name": "NC North Carolina",
+        "pop1980": 5881766,
+        "pop1990": 6628637,
+        "pop1930": 3170276,
+        "pop1900": 1893810,
+        "pop1910": 2206287,
+        "pop1940": 3571623,
+        "fips": "37000",
+        "pop1950": 4061929,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.00031840299965,
+                    35.50068933600045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "North Carolina, United States",
+                "lat": 35.50068933600045,
+                "lng": -80.00031840299965,
+                "quality": "POI",
+                "location": "North Carolina, USA"
+            },
+            "bbox": [
+                -82.901319,
+                32.599689,
+                -77.099319,
+                38.401689
+            ]
+        },
+        "pop1920": 2559123,
+        "pop1970": 5082059
+    },
+    {
+        "pop1960": 632446,
+        "name": "ND North Dakota",
+        "pop1980": 652717,
+        "pop1990": 638800,
+        "pop1930": 680845,
+        "pop1900": 319146,
+        "pop1910": 577056,
+        "pop1940": 641935,
+        "fips": "38000",
+        "pop1950": 619636,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.00067871399966,
+                    47.50026927900046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "North Dakota, United States",
+                "lat": 47.50026927900046,
+                "lng": -100.00067871399966,
+                "quality": "POI",
+                "location": "North Dakota, USA"
+            },
+            "bbox": [
+                -102.64068,
+                44.860269,
+                -97.36068,
+                50.140269
+            ]
+        },
+        "pop1920": 646872,
+        "pop1970": 617761
+    },
+    {
+        "pop1960": 9706397,
+        "name": "OH Ohio",
+        "pop1980": 10797630,
+        "pop1990": 10847115,
+        "pop1930": 6646697,
+        "pop1900": 4157545,
+        "pop1910": 4767121,
+        "pop1940": 6907612,
+        "fips": "39000",
+        "pop1950": 7946627,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.00017964199964,
+                    40.250337267000475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Ohio, United States",
+                "lat": 40.250337267000475,
+                "lng": -83.00017964199964,
+                "quality": "POI",
+                "location": "Ohio, USA"
+            },
+            "bbox": [
+                -85.056181,
+                38.194337,
+                -80.944181,
+                42.306337
+            ]
+        },
+        "pop1920": 5759394,
+        "pop1970": 10652017
+    },
+    {
+        "pop1960": 2328284,
+        "name": "OK Oklahoma",
+        "pop1980": 3025290,
+        "pop1990": 3145585,
+        "pop1930": 2396040,
+        "pop1900": 790391,
+        "pop1910": 1657155,
+        "pop1940": 2336434,
+        "fips": "40000",
+        "pop1950": 2233351,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.50327887799966,
+                    35.49208610000045
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Oklahoma, United States",
+                "lat": 35.49208610000045,
+                "lng": -97.50327887799966,
+                "quality": "POI",
+                "location": "Oklahoma, USA"
+            },
+            "bbox": [
+                -100.49228,
+                32.503086,
+                -94.51428,
+                38.481086
+            ]
+        },
+        "pop1920": 2028283,
+        "pop1970": 2559229
+    },
+    {
+        "pop1960": 1768687,
+        "name": "OR Oregon",
+        "pop1980": 2633105,
+        "pop1990": 2842321,
+        "pop1930": 953786,
+        "pop1900": 413536,
+        "pop1910": 672765,
+        "pop1940": 1089684,
+        "fips": "41000",
+        "pop1950": 1521341,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.50138561399967,
+                    44.000128944000494
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Oregon, United States",
+                "lat": 44.000128944000494,
+                "lng": -120.50138561399967,
+                "quality": "POI",
+                "location": "Oregon, USA"
+            },
+            "bbox": [
+                -123.602387,
+                40.899129,
+                -117.400387,
+                47.101129
+            ]
+        },
+        "pop1920": 783389,
+        "pop1970": 2091385
+    },
+    {
+        "pop1960": 11319366,
+        "name": "PA Pennsylvania",
+        "pop1980": 11863895,
+        "pop1990": 11881643,
+        "pop1930": 9631350,
+        "pop1900": 6302115,
+        "pop1910": 7665111,
+        "pop1940": 9900180,
+        "fips": "42000",
+        "pop1950": 10498012,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.90566857799968,
+                    40.27244830500047
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Pennsylvania, United States",
+                "lat": 40.27244830500047,
+                "lng": -76.90566857799968,
+                "quality": "POI",
+                "location": "Pennsylvania, USA"
+            },
+            "bbox": [
+                -79.06267,
+                38.115448,
+                -74.74867,
+                42.429448
+            ]
+        },
+        "pop1920": 8720017,
+        "pop1970": 11793909
+    },
+    {
+        "pop1960": 859488,
+        "name": "RI Rhode Island",
+        "pop1980": 947154,
+        "pop1990": 100346,
+        "pop1930": 687497,
+        "pop1900": 428556,
+        "pop1910": 542610,
+        "pop1940": 713346,
+        "fips": "44000",
+        "pop1950": 791896,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.49977639299965,
+                    41.75037812700049
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Rhode Island, United States",
+                "lat": 41.75037812700049,
+                "lng": -71.49977639299965,
+                "quality": "POI",
+                "location": "Rhode Island, USA"
+            },
+            "bbox": [
+                -71.911777,
+                41.338378,
+                -71.087777,
+                42.162378
+            ]
+        },
+        "pop1920": 604397,
+        "pop1970": 946725
+    },
+    {
+        "pop1960": 2382594,
+        "name": "SC South Carolina",
+        "pop1980": 3121820,
+        "pop1990": 3486703,
+        "pop1930": 1738765,
+        "pop1900": 1340316,
+        "pop1910": 1515400,
+        "pop1940": 1899804,
+        "fips": "45000",
+        "pop1950": 2117027,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.00008916599967,
+                    34.00042799600044
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "South Carolina, United States",
+                "lat": 34.00042799600044,
+                "lng": -81.00008916599967,
+                "quality": "POI",
+                "location": "South Carolina, USA"
+            },
+            "bbox": [
+                -82.99809,
+                32.002428,
+                -79.00209,
+                35.998428
+            ]
+        },
+        "pop1920": 1683724,
+        "pop1970": 2590516
+    },
+    {
+        "pop1960": 680514,
+        "name": "SD South Dakota",
+        "pop1980": 690768,
+        "pop1990": 696004,
+        "pop1930": 692849,
+        "pop1900": 401570,
+        "pop1910": 583888,
+        "pop1940": 642961,
+        "fips": "46000",
+        "pop1950": 652740,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.25068552399966,
+                    44.50025955300049
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "South Dakota, United States",
+                "lat": 44.50025955300049,
+                "lng": -100.25068552399966,
+                "quality": "POI",
+                "location": "South Dakota, USA"
+            },
+            "bbox": [
+                -103.022687,
+                41.72826,
+                -97.478687,
+                47.27226
+            ]
+        },
+        "pop1920": 636547,
+        "pop1970": 665507
+    },
+    {
+        "pop1960": 3567089,
+        "name": "TN Tennessee",
+        "pop1980": 4591120,
+        "pop1990": 4877185,
+        "pop1930": 2616556,
+        "pop1900": 2020616,
+        "pop1910": 2184789,
+        "pop1940": 2915841,
+        "fips": "47000",
+        "pop1950": 3291718,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.25026817099968,
+                    35.750349677000486
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Tennessee, United States",
+                "lat": 35.750349677000486,
+                "lng": -86.25026817099968,
+                "quality": "POI",
+                "location": "Tennessee, USA"
+            },
+            "bbox": [
+                -88.840269,
+                33.16035,
+                -83.660269,
+                38.34035
+            ]
+        },
+        "pop1920": 2337885,
+        "pop1970": 3923687
+    },
+    {
+        "pop1960": 9579677,
+        "name": "TX Texas",
+        "pop1980": 14229191,
+        "pop1990": 16986510,
+        "pop1930": 5824715,
+        "pop1900": 3048710,
+        "pop1910": 3896542,
+        "pop1940": 6414824,
+        "fips": "48000",
+        "pop1950": 7711194,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.25060878799968,
+                    31.250438579000445
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Texas, United States",
+                "lat": 31.250438579000445,
+                "lng": -99.25060878799968,
+                "quality": "POI",
+                "location": "Texas, USA"
+            },
+            "bbox": [
+                -105.20061,
+                25.300439,
+                -93.30061,
+                37.200439
+            ]
+        },
+        "pop1920": 4663228,
+        "pop1970": 11196730
+    },
+    {
+        "pop1960": 890627,
+        "name": "UT Utah",
+        "pop1980": 1461037,
+        "pop1990": 1722850,
+        "pop1930": 507847,
+        "pop1900": 276749,
+        "pop1910": 373351,
+        "pop1940": 550310,
+        "fips": "49000",
+        "pop1950": 688862,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7510257779997,
+                    39.25023803400046
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Utah, United States",
+                "lat": 39.25023803400046,
+                "lng": -111.7510257779997,
+                "quality": "POI",
+                "location": "Utah, USA"
+            },
+            "bbox": [
+                -114.255027,
+                36.746238,
+                -109.247027,
+                41.754238
+            ]
+        },
+        "pop1920": 449396,
+        "pop1970": 1059273
+    },
+    {
+        "pop1960": 389881,
+        "name": "VT Vermont",
+        "pop1980": 511456,
+        "pop1990": 562758,
+        "pop1930": 359611,
+        "pop1900": 343641,
+        "pop1910": 355956,
+        "pop1940": 359231,
+        "fips": "50000",
+        "pop1950": 377747,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.74982844099964,
+                    44.000335925000456
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Vermont, United States",
+                "lat": 44.000335925000456,
+                "lng": -72.74982844099964,
+                "quality": "POI",
+                "location": "Vermont, USA"
+            },
+            "bbox": [
+                -73.815829,
+                42.934336,
+                -71.683829,
+                45.066336
+            ]
+        },
+        "pop1920": 352428,
+        "pop1970": 444330
+    },
+    {
+        "pop1960": 3966949,
+        "name": "VA Virginia",
+        "pop1980": 5346818,
+        "pop1990": 6187358,
+        "pop1930": 2421851,
+        "pop1900": 1854184,
+        "pop1910": 2061612,
+        "pop1940": 2677773,
+        "fips": "51000",
+        "pop1950": 3318680,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.44674555299963,
+                    37.54811561100047
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Virginia, United States",
+                "lat": 37.54811561100047,
+                "lng": -77.44674555299963,
+                "quality": "POI",
+                "location": "Virginia, USA"
+            },
+            "bbox": [
+                -80.285747,
+                34.709116,
+                -74.607747,
+                40.387116
+            ]
+        },
+        "pop1920": 2309187,
+        "pop1970": 4648494
+    },
+    {
+        "pop1960": 2853214,
+        "name": "WA Washington",
+        "pop1980": 4132156,
+        "pop1990": 4866692,
+        "pop1930": 1563396,
+        "pop1900": 518103,
+        "pop1910": 1141990,
+        "pop1940": 1736191,
+        "fips": "53000",
+        "pop1950": 2378963,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.03636847699966,
+                    38.895107055000494
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Washington, D. C., District of Columbia, United States",
+                "lat": 38.895107055000494,
+                "lng": -77.03636847699966,
+                "quality": "POI",
+                "location": "Washington, USA"
+            },
+            "bbox": [
+                -77.176369,
+                38.755107,
+                -76.896369,
+                39.035107
+            ]
+        },
+        "pop1920": 1356621,
+        "pop1970": 3409169
+    },
+    {
+        "pop1960": 1860421,
+        "name": "WV West Virginia",
+        "pop1980": 1949644,
+        "pop1990": 1793477,
+        "pop1930": 1729205,
+        "pop1900": 958800,
+        "pop1910": 1221119,
+        "pop1940": 1901974,
+        "fips": "54000",
+        "pop1950": 2005552,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.50008904499964,
+                    38.50037959000048
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "West Virginia, United States",
+                "lat": 38.50037959000048,
+                "lng": -80.50008904499964,
+                "quality": "POI",
+                "location": "West Virginia, USA"
+            },
+            "bbox": [
+                -82.59109,
+                36.40938,
+                -78.40909,
+                40.59138
+            ]
+        },
+        "pop1920": 1463701,
+        "pop1970": 1744237
+    },
+    {
+        "pop1960": 3951777,
+        "name": "WI Wisconsin",
+        "pop1980": 4705767,
+        "pop1990": 4891769,
+        "pop1930": 2939006,
+        "pop1900": 2069042,
+        "pop1910": 2333860,
+        "pop1940": 3137587,
+        "fips": "55000",
+        "pop1950": 3434575,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.00040631699966,
+                    44.50023705500047
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Wisconsin, United States",
+                "lat": 44.50023705500047,
+                "lng": -90.00040631699966,
+                "quality": "POI",
+                "location": "Wisconsin, USA"
+            },
+            "bbox": [
+                -92.865407,
+                41.635237,
+                -87.135407,
+                47.365237
+            ]
+        },
+        "pop1920": 2632067,
+        "pop1970": 4417731
+    },
+    {
+        "pop1960": 330066,
+        "name": "WY Wyoming",
+        "pop1980": 469557,
+        "pop1990": 453588,
+        "pop1930": 225565,
+        "pop1900": 92531,
+        "pop1910": 145965,
+        "pop1940": 250742,
+        "fips": "56000",
+        "pop1950": 290529,
+        "geo": {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.50089650999968,
+                    43.0002366920005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "status": "OK",
+                "confidence": 1,
+                "ok": true,
+                "encoding": "utf-8",
+                "provider": "arcgis",
+                "score": 100,
+                "address": "Wyoming, United States",
+                "lat": 43.0002366920005,
+                "lng": -107.50089650999968,
+                "quality": "POI",
+                "location": "Wyoming, USA"
+            },
+            "bbox": [
+                -110.254898,
+                40.246237,
+                -104.746898,
+                45.754237
+            ]
+        },
+        "pop1920": 194402,
+        "pop1970": 332416
+    }
+]
