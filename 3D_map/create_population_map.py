@@ -19,11 +19,6 @@ M.fillcontinents(color='green',lake_color='blue')
 # save map
 plt.savefig('out/map.png',bbox_inches='tight', pad_inches=0, dpi = 100)
 
-
-
-
-
-
 # clear figure
 fig.clf() 
 
@@ -47,9 +42,9 @@ for year in years :
     colors = [ str( float(p) / ( max(pop) ) )  for p in pop ]
 
     # unique sizes
-    sizes = [ 1 for p in pop ]
+    sizes = [ 5 for p in pop ]
 
     # print lngs
-    scat = M.scatter(lngs, lats, c=colors, latlon=True, s=sizes, linewidths=0)
+    scat = M.scatter(lngs, lats, marker="," , s=sizes,c=colors, latlon=True,  linewidths=0)
 
-    # plt.savefig('out/us_'+year+'.png',bbox_inches='tight', pad_inches=0, dpi = 100)
+    plt.savefig('out/us_'+year+'.png',bbox_inches='tight', pad_inches=0, dpi = 100)
