@@ -1,7 +1,9 @@
 import os
+import sys
 from PIL import Image
 from mcpi import minecraft
-import sys
+import mcpi.block as block
+
 
 
 def color_distance(rgb1,rgb2):
@@ -16,9 +18,9 @@ class MinecraftImager():
     def __init__(self):
         self.mc = minecraft.Minecraft.create()
         x, y, z = self.mc.player.getPos()
-        self.x = x+20
-        self.y = y-size/2
-        self.z = z
+        self.cx = x
+        self.cy = y
+        self.cz = z
         self.textures_dir = "textures"
         self.textures = []
 
@@ -41,43 +43,78 @@ class MinecraftImager():
     def say(self, sentence):
         self.mc.postToChat( sentence )
 
+
+    def resize_img(self, img, size):
+            w = img.size[0]
+            h = img.size[1]
+            r =  h / float(w) 
+
+            w_small = size
+            h_small = int(r*w_small)
+            img_small = img.resize( (w_small,h_small ) ) 
+            return img_small
+
     def process_img(self, img, size):
 
-        w = img.size[0]
-        h = img.size[1]
-        r =  h / float(w) 
-
-        w_small = size
-        h_small = int(r*w_small)
-        img_small = img.resize( (w_small,h_small ) )
-
+        img_small = self.resize_img(img, size)
 
         # print texture_colors
         w = img_small.size[0]
         h = img_small.size[1]
 
         pixels = []
-        for y in range(0, h):
+        for y in range(1, h):
             col_x= []
-            for x in range(0, w):
+            for x in range(1, w):
                 c = img_small.getpixel( (x,y) )
-                dists = [ color_distance(c, t) for t in self.textures ]  
+                # print c
+                dists = [ color_distance(c, t) for t in self.textures ]
                 col_x.append(dists.index(min(dists)))
             pixels.append(col_x)
         return pixels
 
+    def clear(self):
+        """Clear eveything on stage"""
+        self.mi.say("Cleaning stage")
 
-    def draw(self, img, size=40):
+        self.mc.setBlocks(-128,-54,-128,128,64,128,0)
 
-        img_textures_array = self.process_img(img, size)
-        print img_textures_array
+        # sand ground
+        bid = block.SANDSTONE.id
+        self.mc.setBlocks(-128,-54,-128,128,-64,128,bid)
 
-        for i, row in enumerate(img_textures_array) : 
-            for j, n in enumerate(row) :
-                # print n
-                if n != 999 :
-                    self.mc.setBlock(self.x, self.y+len(img_textures_array) - i, self.z - int( len(row) / 2) + j, 35, n )
-                else:
-                    self.mc.setBlock(self.x, self.y+len(img_textures_array)-i, self.z - int(len(row) / 2) + j, 0 )
+    def draw_bar(self, img, size=20):
 
-        self.say( "Image added !" )
+        """Draw relief from grayscale image"""
+        img_small = self.resize_img(img, size)
+        print img_small
+
+        # print texture_colors
+        w = img_small.size[0]
+        h = img_small.size[1]
+
+        for yimg in range(1, h):
+            for ximg in range(1, w):
+
+                c = img_small.getpixel( (ximg,yimg) )
+                if c != (255, 255, 255, 255) : 
+                    scale =  int(( float(c[0])/255 ) * 30 )
+                    for i in range( -53, -53 + scale):
+                        self.mc.setBlock(self.cx - w/2 +ximg, i, self.cz - h/2 + yimg, 35, 1 )
+
+    def draw(self, img, size=40, flat=False):
+        """Draw an image"""
+
+        pixels = self.process_img(img, size)
+        h = len(pixels)
+        for yimg, row in enumerate(pixels) :
+            for ximg, n in enumerate(row) :
+                w = len(row)
+                if flat:
+                    self.mc.setBlock(self.cx - w/2 +ximg, -54, self.cz - h/2 + yimg, 35, n )
+                else :
+                    self.mc.setBlock(self.cx + 10,  self.cy - w/2 +yimg, self.cz - h/2 + yimg, 35, n )
+
+        print  "Image added (x:%s y:%s z:%s) !"%(self.cx, self.cy,self.cz)
+
+        self.say( "Image added (x:%s y:%s z:%s) !"%(self.cx, self.cy,self.cz) )
