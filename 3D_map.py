@@ -25,14 +25,20 @@ img = Image.open(os.path.join(img_dir, "map.png"))
 mi.say( "Creating US Map")
 mi.draw(img, size, flat=True)
 
-imgs = sorted(os.listdir(img_dir))
+
+def draw_population(year):
+        mi.say( "Year %s"%year)
+        filename = "us_pop"+year+".png"
+        img_year = Image.open(os.path.join(img_dir, filename))
+        mi.draw_bar(img_year, size=size)
 
 # draw bars
-for img in imgs :
-    if img != "map.png":
-        year = img[6:-4]
-        if year == "1900":
-            mi.say( "Year %s"%year)
-            img_year = Image.open(os.path.join(img_dir, img))
-            mi.draw_bar(img_year, size=size)
+# imgs = sorted(os.listdir(img_dir))
+# for img in imgs :
+#     if img != "map.png":
+#         year = img[6:-4]
+#         if year == "1900":
+#             mi.say( "Year %s"%year)
+#             img_year = Image.open(os.path.join(img_dir, img))
+#             mi.draw_bar(img_year, size=size)
 
