@@ -2,19 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import json
-import numpy as np
 from mpl_toolkits.basemap import Basemap
 import matplotlib.pyplot as plt
-
-from lib.img2minecraft import MinecraftImager
-
-# minecraft
-mi = MinecraftImager() 
-mi.use_whools() # select textures
-
-mi.say( "Creating US Map")
-
-# mi.draw(img.convert(mode="RGB"))
 
 # create US map
 fig = plt.figure(figsize=(2.56, 2.56), dpi=100, frameon = False)
