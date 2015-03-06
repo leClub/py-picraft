@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import json
-import numpy as np
 from mpl_toolkits.basemap import Basemap
 import matplotlib.pyplot as plt
 
