@@ -1,5 +1,5 @@
 import os
-from ..lib.img2minecraft import MinecraftImager
+from lib.img2minecraft import MinecraftImager
 
 # minecraft
 mi = MinecraftImager() 
